@@ -1,0 +1,36 @@
+Upset stomach and the feeling that I may need to throw up .
+0,1 ADR|10,11 ADR
+
+The pain in my stomach is in the middle of my stomach above my belly button and its a deep constant pain .
+19,21 ADR|1,4 ADR
+
+I also feel like I may need to go to the restroom , but when I do I can ' t .
+4,20 ADR
+
+Swelling & weight increase .
+0,0 ADR|2,3 ADR
+
+uncontrollable Diarrhea , kidney function .
+1,1 ADR
+
+This product is the best medicine for arthritis pain I have ever taken , however after taking it for approx . 10 years it started affecting my kidneys , my stomach ( acid reflux ) and the diarrhea got worse , short term , I had no problems , this would be a great product if the manufacturer could get rid of the side effects .
+25,25,29,34 ADR|25,27 ADR|37,37 ADR
+
+dizzines dioreah stomach cramps disorientation .
+0,0 ADR|1,1 ADR|2,3 ADR|4,4 ADR
+
+followed by ulceration of the osophragus , and stomach , and possibly the gut .
+2,3,8,8 ADR|2,5 ADR
+
+Now I dont know how I am going to get back to work , it has left me feeling exausted , and depressed .
+18,18,22,22 ADR|18,19 ADR
+
+NSAID gastritis , severe stomach upset after prolonged use .
+1,1 ADR|3,5 ADR
+
+false full feeling , very poor appetite .
+0,2 ADR|4,6 ADR
+
+increased menstruation , 2 - 3 periods a month instead of once a month , menstrual cramps present with or without vaginal bleeding .
+0,1 ADR|15,16,18,18,21,22 ADR|3,13 ADR|15,16,20,22 ADR
+
